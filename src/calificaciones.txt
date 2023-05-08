@@ -1,0 +1,5 @@
+samprimo;alex;10.0;8.0;9.0;9.0}
+gonzalez;paco;3.0;4.0;6.0;4.3333335}
+samprimo;alex;10.0;8.0;7.0;8.333333}
+antuan;andrea;10.0;10.0;10.0;10.0}
+xanxi;xavier;10.0;10.0;10.0;10.0}
